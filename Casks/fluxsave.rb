@@ -1,6 +1,6 @@
 cask "fluxsave" do
-  version "1.5.0"
-  sha256 "e1ecd9b6308056e300e8b86df48dadb8e60a5b91c8cd13f0f1d81ac460f42804"
+  version "1.5.1"
+  sha256 "f0d40f704c77b69e1325730c4e374fb60c18efa5aa47c0835be257cbe16f3a50"
 
   url "https://github.com/lightscameratech-art/fluxsave/releases/download/v#{version}/FluxSave-#{version}-Mac-arm64.dmg"
   name "FluxSave"
